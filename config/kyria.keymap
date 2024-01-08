@@ -29,7 +29,7 @@
             //                     | GUI  | DEL  | RET  |  SPACE  |   ESC   |  |   RET   |  SPACE  | TAB  | BSPC  | R-ALT |
             bindings = <
             &kp ESC   &kp Q &kp W &kp F &kp P &kp B                                                  &kp J &kp L  &kp U     &kp Y   &kp SEMI	&kp BSLH
-            &kp TAB   &kp A &kp R &kp S &kp T &kp G                                                  &kp M &kp N  &kp E     &kp I   &kp O	&kp SQT
+            &kp TAB   &kp A &kp R &kp S &kp F &kp G                                                  &kp M &kp N  &kp E     &kp I   &kp O	&kp SQT
             &kp LSHFT &kp Z &kp X &kp C &kp D &kp V &kp LSHFT &kp LSHFT            &mo 1   &kp LSHFT &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &kp RCTRL
                                   &kp LGUI &kp DEL &kp RET &kp SPACE &kp ESC       &kp RET &kp SPACE &kp TAB &kp BSPC &kp RALT
             >;
